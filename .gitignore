@@ -1,0 +1,5 @@
+.venv/
+model_results/
+scripts/
+tests/
+*/__pycache__/
